@@ -44,6 +44,10 @@ body {
     color: white !important;
 }
 
+.summary-text {
+    color: white;
+}
+
 .column {
     display: flex;
     justify-content: space-evenly;
