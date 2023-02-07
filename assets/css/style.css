@@ -2,6 +2,7 @@
     /* box-sizing: border-box; */
     padding: 0;
     margin: 0;
+    color: white;
 }
 
 body {
@@ -44,10 +45,6 @@ body {
     color: white !important;
 }
 
-.summary-text {
-    color: white;
-}
-
 .column {
     display: flex;
     justify-content: space-evenly;
@@ -60,6 +57,10 @@ body {
     text-align: right;
     width: 20%;
     color: #ffffff;
+}
+
+.contact-info {
+
 }
 
 .footer {
