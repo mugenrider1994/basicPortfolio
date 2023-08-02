@@ -32,3 +32,6 @@ This portfolio is a personal project, and contributions are not accepted at this
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Deployment
+https://mugenrider1994.github.io/basicPortfolio/
